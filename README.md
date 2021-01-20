@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Visitor Badge](https://profile-counter.glitch.me/mugunthanramesh/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/mugunthanramesh/mugunthanramesh)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/mugunthanramesh)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/mugunthanramesh/mugunthanramesh)](https://badges.pufler.dev)
 <!--
 **mugunthanramesh/mugunthanramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
