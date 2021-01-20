@@ -40,8 +40,21 @@ Ambitious Engineer with good skills in Data Structure and Algorithm. Highly effe
 [![Deep_Learning_Using_TensorFlow](badges/Deep_Learning_Using_TensorFlow.png)](https://www.youracclaim.com/badges/0bd45954-474a-43de-8410-d95bfb323251/public_url)
 [![Machine_Learning_with_Python](badges/Machine_Learning_with_Python.png)](https://www.youracclaim.com/badges/f8e54a94-cc43-445f-a45b-f1cb96095ddb/public_url)
 
+## My projects
 
-#### My GitHub Stats
+- **Ultrasonic and Camera-Based Parking Assistant System**
+
+Maps the surroundings of the vehicle and displays it in the dashboard using the camera and distance obtained from the ultrasonic sensor. camera detects the obstacle using a deep     learning network(YOLO is used) and the ultrasonic sensor is used for Distance manipulation.
+
+  [![ADAS Card](https://github-readme-stats.vercel.app/api/pin/?username=mugunthanramesh&repo=ADAS)](https://github.com/mugunthanramesh/ADAS)
+ 
+- **SpeechSearch**
+
+Speech Recognition based project using Python that enables us to explore videos and information and this also has the feature of capturing moments.
+
+[![SS Card](https://github-readme-stats.vercel.app/api/pin/?username=mugunthanramesh&repo=SpeechSearch)](https://github.com/mugunthanramesh/SpeechSearch)
+
+## My GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mugunthanramesh&show_icons=true&hide_title=true)](https://github.com/mugunthanramesh)
 
