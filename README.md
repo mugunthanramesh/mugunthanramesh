@@ -1,12 +1,12 @@
 ## Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/mugunthanramesh/mugunthanramesh)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/mugunthanramesh)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/mugunthanramesh/mugunthanramesh)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/mugunthanramesh/mugunthanramesh)](https://github.com/mugunthanramesh)
+[![Repos Badge](https://badges.pufler.dev/repos/mugunthanramesh)](https://github.com/mugunthanramesh)
+[![Updated Badge](https://badges.pufler.dev/updated/mugunthanramesh/mugunthanramesh)](https://github.com/mugunthanramesh)
 
 I am **Mugunthan R!**
 
-[![Generic badge](https://img.shields.io/badge/Present-ZohoCorporation-green.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Past-Amazon-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Present-ZohoCorporation-green.svg)](https://github.com/mugunthanramesh)
+[![Generic badge](https://img.shields.io/badge/Past-Amazon-red.svg)](https://github.com/mugunthanramesh)
 
 Ambitious Engineer with good skills in Data Structure and Algorithm. Highly effective working in fast-paced environments. Also has a piece of good knowledge of Deep Learning and automation processes.
 
@@ -43,9 +43,9 @@ Ambitious Engineer with good skills in Data Structure and Algorithm. Highly effe
 
 #### My GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mugunthanramesh&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mugunthanramesh&show_icons=true&hide_title=true)](https://github.com/mugunthanramesh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugunthanramesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugunthanramesh&layout=compact)](https://github.com/mugunthanramesh)
 
 *Constantly working on improving these counts*
 
