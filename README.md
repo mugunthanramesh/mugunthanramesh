@@ -1,7 +1,6 @@
 ## Hi there 👋
 [![Visits Badge](https://badges.pufler.dev/visits/mugunthanramesh/mugunthanramesh)](https://github.com/mugunthanramesh)
 [![Repos Badge](https://badges.pufler.dev/repos/mugunthanramesh)](https://github.com/mugunthanramesh)
-[![Updated Badge](https://badges.pufler.dev/updated/mugunthanramesh/mugunthanramesh)](https://github.com/mugunthanramesh)
 [![GitHub followers](https://img.shields.io/github/followers/mugunthanramesh.svg?style=social&label=Follow)](https://github.com/mugunthanramesh?tab=followers)
 
 I am **Mugunthan R!**
