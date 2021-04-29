@@ -5,9 +5,9 @@
 
 I am **Mugunthan R!**
 
-[![Generic badge](https://img.shields.io/badge/Present-ZohoCorporation-green.svg)](https://github.com/mugunthanramesh)
-[![Generic badge](https://img.shields.io/badge/Present-OmdenaAI-green.svg)](https://github.com/mugunthanramesh)
-[![Generic badge](https://img.shields.io/badge/Past-Amazon-red.svg)](https://github.com/mugunthanramesh)
+[![Generic badge](https://img.shields.io/badge/Present-ZohoCorporation-green.svg)](http://zohocorp.com/)
+[![Generic badge](https://img.shields.io/badge/Present-OmdenaAI-green.svg)](https://omdena.com/)
+[![Generic badge](https://img.shields.io/badge/Past-Amazon-red.svg)](https://www.amazon.com/)
 
 Ambitious Engineer with good skills in Data Structure and Algorithm. Highly effective working in fast-paced environments. Also has a piece of good knowledge of Deep Learning and automation processes. Interested in Deep Learning and Computer Vision 
 
