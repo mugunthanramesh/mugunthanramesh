@@ -12,9 +12,9 @@ I am **Mugunthan R!**
 Ambitious Engineer with good skills in Data Structure and Algorithm. Highly effective working in fast-paced environments. Also has a piece of good knowledge of Deep Learning and automation processes. Interested in Deep Learning and Computer Vision 
 
 ## 🌱 I’m currently learning 
-- Data Handling
 - Machine Learning
 - DeepLearning
+- Computer Vision
 
 ## 👯 I’m looking to collaborate on
 - AI/ML Projects
