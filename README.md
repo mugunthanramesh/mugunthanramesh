@@ -6,7 +6,6 @@
 I am **Mugunthan R!**
 
 [![Generic badge](https://img.shields.io/badge/Present-ZohoCorporation-green.svg)](http://zohocorp.com/)
-
 [![Generic badge](https://img.shields.io/badge/Past-Amazon-red.svg)](https://www.amazon.com/)
 
 Ambitious Engineer with good skills in Data Structure and Algorithm. Highly effective working in fast-paced environments. Also has a piece of good knowledge of Deep Learning and automation processes. Interested in Deep Learning and Computer Vision 
@@ -15,9 +14,6 @@ Ambitious Engineer with good skills in Data Structure and Algorithm. Highly effe
 - DeepLearning
 - Computer Vision
 - Autonomous Vehicles
-
-## 👯 I’m looking to collaborate on
-- AI/ML Projects
 
 ## 💻 Programming Knowledge
 
@@ -62,6 +58,13 @@ Speech Recognition based project using Python that enables us to explore videos 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugunthanramesh&layout=compact)](https://github.com/mugunthanramesh)
 
 *Constantly working on improving these counts*
+
+## Blogs
+
+View my stories and content at https://mugunthanramesh.medium.com/
+Some themes of my stories are
+- Computer Vision
+- Autonomous vehicles
 
 ## 📫 Reach me out @
 
